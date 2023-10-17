@@ -669,15 +669,15 @@
 <p>一句话，我在这里发微博，与那个人尽皆知的<span class="exturl" data-url="aHR0cHM6Ly93ZWliby5jb20v">微博<i class="fa fa-external-link-alt"></i></span>所不同的是，这里没有付费，没有花哨，没有人。</p>
 ]]></content>
       <categories>
-        <category>学习</category>
         <category>日常</category>
-        <category>博客</category>
+        <category>学习</category>
         <category>思考</category>
+        <category>博客</category>
       </categories>
       <tags>
-        <tag>博客</tag>
         <tag>日常</tag>
         <tag>思考</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
@@ -704,128 +704,6 @@
       <tags>
         <tag>日常</tag>
         <tag>思考</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Markdown语法学习</title>
-    <url>/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<p>写博客是一件怎样的事呢？现在的我面临这个问题。</p>
-<p>解铃还须系铃人，答案需得从过去找，来看看近一周我做了什么！</p>
-<ul>
-<li>翻看过无数篇建立博客的教程</li>
-<li>尝了无数只GitBash告诉我的bug</li>
-<li>体验了Hexo配合GithubPages搭建起属于我的个人站点</li>
-<li>不断改进<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL1NoZW4tWXUvaGV4by10aGVtZS1heWVy">ayer主题<i class="fa fa-external-link-alt"></i></span>里的页面布局</li>
-<li>… …</li>
-</ul>
-<p>当这一切逐渐完结，我向自己发出了重要的疑问：接下来怎么办？</p>
-<p>答案不必思索，我告诉自己：</p>
-<blockquote>
-<p>向前走，别回头！</p>
-<blockquote>
-<p>《漫长的季节》</p>
-</blockquote>
-</blockquote>
-<hr>
-<p>让我们先考虑另一个问题：都说万事开头难，现在我渡过了最初的难关了吗？写博客是一件长远的事，如果一物的起源是极重要的，那么一件恒常存在的物，其源头不会简陋。</p>
-<p>我还没有走出开头。弄清楚这一点是极重要的。</p>
-<p>直到现在，我拢共也就遇到两件事：头一件事是如何搭建起这个网站。现在我解决了这个问题，最初的满腔热情也趋于平静，那么是时候走出下一步了：写文章。可紧接着又遇上一件棘手的事：我怎么写文章呢？</p>
-<p>说这句话，其实有两个意思：</p>
-<span id="more"></span>
-
-<ol>
-<li>我要说什么？<br>关于这一点，现在是没有疑问的，或者说还没到考虑的时候。因为我还没有客人，也就无需烦心内容，即便是记录生活的琐碎嘈杂也没有问题，权当是写日记了。日记又有什么讲究呢？</li>
-<li>我该怎么说？<br>实际上，这一条已经成为了亟待解决的事情，同时也是我近来的兴趣所在。</li>
-</ol>
-<p>怎么把事情讲出来，这是个问题。让我们忽略语法上的遣词造句，我没必要做到那么精细。</p>
-<p>我们只是谈谈技术上的事情：有关 <strong>格式</strong> 和 <strong>排版</strong> 。<del>尽管这可能仍然处于语法的范畴，是吗？</del></p>
-<hr>
-<p>我是如何考虑 <strong>格式</strong> 和 <strong>排版</strong> 的？毫不意外的，我选择了 <strong>Markdown</strong> 。</p>
-<h4 id="什么是Markdown？"><a href="#什么是Markdown？" class="headerlink" title="什么是Markdown？"></a>什么是Markdown？</h4><p>这里我决定引用<span class="exturl" data-url="aHR0cHM6Ly9tYXJrZG93bi5jb20uY24v">Markdown官方教程<i class="fa fa-external-link-alt"></i></span>的介绍：</p>
-<blockquote>
-<p>Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添加格式化元素。Markdown 由 John Gruber 于 2004 年创建，如今已成为世界上最受欢迎的标记语言之一。<br><br>1.专注于文字内容；<br>2.纯文本，易读易写，可以方便地纳入版本控制；<br>3.语法简单，没有什么学习成本，能轻松在码字的同时做出美观大方的排版。</p>
-</blockquote>
-<h4 id="为什么是Markdown？"><a href="#为什么是Markdown？" class="headerlink" title="为什么是Markdown？"></a>为什么是Markdown？</h4><p>与预期的答案不同，我并非早早看到了Markdown的优势和效果。不仅没有，我甚至从没有主动了解过Markdown。当然，直到昨天。我对Markdown这一名字的熟悉来自于各种地方，尤其是 <strong>readme.md</strong> 文件。我相信会有人熟悉我下面所列举的各种场景：</p>
-<ol>
-<li>GitHub的几乎每一个项目都能见到它的身影</li>
-<li>Magisk的每一个模块都附带了这一说明性文本。</li>
-<li>酷安和互联网其他地方都存在Markdown的讨论区和软件分享。</li>
-</ol>
-<p>在一个氛围成型的社区，你有什么办法躲开这些呢？</p>
-<ul>
-<li>更重要的是，我使用GithubPages和Hexo建立我的博客，而新建文章的默认后缀名是 <strong>.md</strong> 。</li>
-</ul>
-<hr>
-<p>基于以上原因，我开始了解Markdown语法和纷繁的编辑器。</p>
-<p>学习新东西总是很有意思的事情，这一份“意思”一般会很快消亡。短暂的接触告诉我：Markdown可能不是这样。</p>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>热夜和模糊的月</title>
-    <url>/%E7%83%AD%E5%A4%9C%E5%92%8C%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%9C%88/</url>
-    <content><![CDATA[<p>今天洗了个澡，洗了很久，不能说精神焕发，至少干净些了。（突然想起枕套没洗，心情不好了。）<br>之后在外面走了走，虫子很多，略有闷热。<br>路上想起写博客一定需要一些照片的，于是又把很久没管的谷歌相机下载回来，顺带又吐槽了半天百度网盘，心情更不好了。<br>回来时看见天上半弯朦胧的月，周身布满光华，仿佛太阳一般挥散清耀。</p>
-<hr>
-<p>AppleMusic的歌词做的很好，显示效果很漂亮，速度和歌手完全一致。推荐系统不明了，比Spotify差。<br>用<span class="exturl" data-url="aHR0cHM6Ly9oZWFydC51c2VsZXNzZXMuY29tLw==">红心歌单助手<i class="fa fa-external-link-alt"></i></span>转移歌单，算是效果最好的一个了，但是错漏还是很多。<br>在网易云音乐和QQ音乐看多了社区，越来越珍惜纯粹的音乐。每天关注别人是很累的，在其他地方关心的够多了。<br>惊闻微信做了音乐播放器，仿AM，对我来说只在一个时候有用：朋友分享给我网易云的歌曲。<br>网易云小程序很不好使，很多歌提示你去app，我要你干什么？<br>之后有时间写一篇歌单转移的文章，今天不写。</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>记录</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-        <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>期末考试周</title>
-    <url>/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%91%A8/</url>
-    <content><![CDATA[<p>没想到眨眼间就是期末考试了，我的大一结束地这么快，真是突如其来。归根结底是因为做的事太少了吧，才会有恍然的感觉。<br>期末考试剩下两门，可惜之后还有军训，北京的夏天这次来的特别猛烈，已经高达40℃，希望军训顺利过去，然后就是回家的新篇章。<br>剩下的半个月左右的日子怎么办，这是个问题。暂定把博客好好完善一下，把课程都结了，或许出校门看一场电影？</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>记录</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-        <tag>记录</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo使用报告</title>
-    <url>/Hexo%E4%BD%BF%E7%94%A8%E6%8A%A5%E5%91%8A/</url>
-    <content><![CDATA[<p>Hexo使用文档告诉我们：</p>
-<blockquote>
-<p>你可以执行下列命令来创建一篇新文章或者新的页面。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt;  $ hexo new [layout] &lt;title&gt;</span><br><span class="line">&gt; </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p><a href="https://hexo.io/zh-cn/docs/writing"><em>写作 |Hexo</em></a></p>
-</blockquote>
-</blockquote>
-<ul>
-<li><strong>首位的 $ 是 Git Bash 自动显示的，不是你应该输入的内容</strong></li>
-</ul>
-<p>因此，当你想要写一篇题为 “第一篇博客” 的草稿时，你可能会尝试：<code>hexo new [draft] &lt;第一篇博客&gt;</code><br>但你不会收到任何效果，因为这种做法实际上是错误的。你真正应该敲下的是：<code>hexo new draft 第一篇博客</code><br><br>不仅如此，在后文中你会见到这么一个符号，它频繁出现，但是通常是可以被忽略的：<code>&quot;&quot;</code><br>这是 “” 在代码框中的样式，它不同寻常，不是吗？<br><br>由此，我们得知了第一个重要的规则：</p>
-<h6 id="、-lt-gt-、-quot-quot-通常不是输入内容，而是提示输入的存在。"><a href="#、-lt-gt-、-quot-quot-通常不是输入内容，而是提示输入的存在。" class="headerlink" title="[ ]、&lt;&gt;、&quot;&quot;通常不是输入内容，而是提示输入的存在。"></a>[ ]、&lt;&gt;、<code>&quot;&quot;</code>通常不是输入内容，而是提示输入的存在。</h6><p>在阅读 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL3poLWNuL2RvY3Mv">Hexo使用文档<i class="fa fa-external-link-alt"></i></span> 的时候，这一点是不得不记住的，因为你很可能会不断地栽在这上面。试想：一篇帮助文档的第一句话（实际为基本操作的第一句话）就隐含了如此巨大的未知信息，<del>它显然把真正的初学者看得太聪明了，</del>如果你不幸正欲从此入门，那么阅读本文是你的不二之选。</p>
-<span id="more"></span>
-
-<hr>
-<p>让我们继续。Hexo默认添加了三种布局模板：post、draft、page,它们全部位于 <strong>&#x2F;scaffolds</strong> ，下面一一详谈：</p>
-<h6 id="POST"><a href="#POST" class="headerlink" title="POST"></a>POST</h6><p>post：发布，Hexo的默认布局。当你使用命令：<code>hexo new 第一篇博客</code><br>Hexo会自动生成 <strong>&#x2F;source&#x2F;_post&#x2F;第一篇博客&#x2F;第一篇博客.md</strong><br>这份md文件就是以 <strong>&#x2F;scaffolds&#x2F;post.md</strong> 为基础制作的，其中的 <strong>title</strong> 是你生成文件时的命名，<strong>date</strong>是你创建文件的时间，所有选项你都可以自行更改。当然，不使用命令也是可以的，命令的本质是操作的自动化，越过繁琐且枯燥的过程直接看到结果。</p>
-]]></content>
-      <categories>
-        <category>学习</category>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
@@ -947,8 +825,8 @@
 ]]></content>
       <categories>
         <category>日常</category>
-        <category>记录</category>
         <category>思考</category>
+        <category>记录</category>
       </categories>
       <tags>
         <tag>日常</tag>
@@ -1112,8 +990,8 @@
 ]]></content>
       <categories>
         <category>日常</category>
-        <category>记录</category>
         <category>思考</category>
+        <category>记录</category>
       </categories>
       <tags>
         <tag>日常</tag>
@@ -1132,8 +1010,8 @@
 ]]></content>
       <categories>
         <category>日常</category>
-        <category>记录</category>
         <category>思考</category>
+        <category>记录</category>
       </categories>
       <tags>
         <tag>日常</tag>
@@ -1204,8 +1082,8 @@
       </tags>
   </entry>
   <entry>
-    <title>分类</title>
-    <url>/categories/index.html</url>
+    <title>诚荐</title>
+    <url>/recommend/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -1229,8 +1107,8 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>诚荐</title>
-    <url>/recommend/index.html</url>
+    <title>分类</title>
+    <url>/categories/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
