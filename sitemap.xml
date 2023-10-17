@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://justwowyeah.com/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E2%80%94%E2%80%94%E6%88%91%E6%80%8E%E4%B9%88%E5%AF%B9%E5%BE%85%E5%8D%9A%E5%AE%A2%EF%BC%9F/</loc>
-    
-    <lastmod>2023-10-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://justwowyeah.com/URL%E7%A7%91%E6%99%AE/</loc>
     
     <lastmod>2023-10-17</lastmod>
@@ -394,13 +385,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://justwowyeah.com/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2023-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -440,13 +424,6 @@
   
   <url>
     <loc>https://justwowyeah.com/categories/%E5%AD%A6%E4%B9%A0/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://justwowyeah.com/categories/%E5%AD%A6%E4%B9%A0/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
