@@ -453,8 +453,8 @@
         <category>自我</category>
       </categories>
       <tags>
-        <tag>思考</tag>
         <tag>记录</tag>
+        <tag>思考</tag>
         <tag>自我</tag>
       </tags>
   </entry>
@@ -480,8 +480,8 @@
         <category>思考</category>
       </categories>
       <tags>
-        <tag>思考</tag>
         <tag>记录</tag>
+        <tag>思考</tag>
       </tags>
   </entry>
   <entry>
@@ -605,8 +605,8 @@
         <category>自我</category>
       </categories>
       <tags>
-        <tag>思考</tag>
         <tag>记录</tag>
+        <tag>思考</tag>
         <tag>自我</tag>
       </tags>
   </entry>
@@ -678,8 +678,8 @@
         <category>自我</category>
       </categories>
       <tags>
-        <tag>思考</tag>
         <tag>记录</tag>
+        <tag>思考</tag>
         <tag>自我</tag>
       </tags>
   </entry>
@@ -857,6 +857,11 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>标签</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>关于</title>
     <url>/about/index.html</url>
     <content><![CDATA[<blockquote><p>Q：这里是哪？<br>A：笔者的个人博客，它将有很长一段时间缺少内容，但我会持续建设它。</p>
@@ -870,15 +875,5 @@
 
 <blockquote><p>Q：你是谁？<br>A：一个普通人，向优秀看齐！</p>
 </blockquote>]]></content>
-  </entry>
-  <entry>
-    <title>标签</title>
-    <url>/tags/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>分类</title>
-    <url>/categories/index.html</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
