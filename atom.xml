@@ -423,33 +423,6 @@
   </entry>
   
   <entry>
-    <title>测试专用贴</title>
-    <link href="https://justwowyeah.com/%E6%B5%8B%E8%AF%95%E4%B8%93%E7%94%A8%E8%B4%B4/"/>
-    <id>https://justwowyeah.com/%E6%B5%8B%E8%AF%95%E4%B8%93%E7%94%A8%E8%B4%B4/</id>
-    <published>2023-06-23T13:07:22.000Z</published>
-    <updated>2023-11-04T02:21:41.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;第一句话：&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;花费了10个小时的时间，终于把人生中第一篇正经的博客开了个头，尽管我仍然对它一无所知。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr&gt;
-&lt;p&gt;以下是测试项目详情：&lt;/p&gt;
-&lt;h3 id=&quot;valine评论系统&quot;&gt;&lt;a href=&quot;#valine评论系统&quot; class=&quot;headerlink&quot; title=&quot;valine评论系统&quot;&gt;&lt;/a&gt;valine评论系统&lt;/h3&gt;&lt;p&gt;静态网站没办法有自己的实时动态评论系统，所以不得不借用评论系统。&lt;/p&gt;
-
-&lt;p&gt;评论框很好看，输入邮箱获取头像、输入昵称发言、输入网址则点击昵称可以跳转。右下角自带微博表情，还可以输入&lt;code&gt;![](url)&lt;/code&gt;直接发送图片，简单方便。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="记录" scheme="https://justwowyeah.com/categories/%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="记录" scheme="https://justwowyeah.com/tags/%E8%AE%B0%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>城市化与高龄乡村</title>
     <link href="https://justwowyeah.com/%E5%9F%8E%E5%B8%82%E5%8C%96%E4%B8%8E%E9%AB%98%E9%BE%84%E4%B9%A1%E6%9D%91/"/>
     <id>https://justwowyeah.com/%E5%9F%8E%E5%B8%82%E5%8C%96%E4%B8%8E%E9%AB%98%E9%BE%84%E4%B9%A1%E6%9D%91/</id>
@@ -626,6 +599,36 @@
     <category term="思考" scheme="https://justwowyeah.com/tags/%E6%80%9D%E8%80%83/"/>
     
     <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>当人成神</title>
+    <link href="https://justwowyeah.com/%E5%BD%93%E4%BA%BA%E6%88%90%E7%A5%9E/"/>
+    <id>https://justwowyeah.com/%E5%BD%93%E4%BA%BA%E6%88%90%E7%A5%9E/</id>
+    <published>2022-10-24T01:34:00.000Z</published>
+    <updated>2023-11-04T01:51:56.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在神话故事中，神创造了人，但是人可以拥有自己的喜怒哀乐；那么，人类创造的人造人，是否也该有自己的喜怒哀乐呢？&lt;/p&gt;
+&lt;p&gt;神是人的神，人类是人造人的神。但是人与神不同的是，人是有自己的私欲的，神对人没有要求（或者说，即使你做了坏事，也是下地狱之后的账了），但是人造人一旦做</summary>
+        
+      
+    
+    
+    
+    <category term="思考" scheme="https://justwowyeah.com/categories/%E6%80%9D%E8%80%83/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/categories/%E6%80%9D%E8%80%83/%E4%BA%BA/"/>
+    
+    
+    <category term="思考" scheme="https://justwowyeah.com/tags/%E6%80%9D%E8%80%83/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
   </entry>
   
