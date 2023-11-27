@@ -6,7 +6,7 @@
   <link href="https://justwowyeah.com/atom.xml" rel="self"/>
   
   <link href="https://justwowyeah.com/"/>
-  <updated>2023-11-27T12:45:12.000Z</updated>
+  <updated>2023-11-27T12:53:36.000Z</updated>
   <id>https://justwowyeah.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://justwowyeah.com/%E5%AE%BF%E5%91%BD%E8%AE%BA%E5%92%8C%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97/"/>
     <id>https://justwowyeah.com/%E5%AE%BF%E5%91%BD%E8%AE%BA%E5%92%8C%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97/</id>
     <published>2023-11-27T06:00:00.000Z</published>
-    <updated>2023-11-27T12:45:12.000Z</updated>
+    <updated>2023-11-27T12:53:36.000Z</updated>
     
     
       
@@ -36,11 +36,9 @@
     
     
     
-    <category term="宿命论" scheme="https://justwowyeah.com/tags/%E5%AE%BF%E5%91%BD%E8%AE%BA/"/>
-    
-    <category term="番" scheme="https://justwowyeah.com/tags/%E7%95%AA/"/>
-    
     <category term="意义" scheme="https://justwowyeah.com/tags/%E6%84%8F%E4%B9%89/"/>
+    
+    <category term="宿命论" scheme="https://justwowyeah.com/tags/%E5%AE%BF%E5%91%BD%E8%AE%BA/"/>
     
   </entry>
   
@@ -64,9 +62,9 @@
     
     
     
-    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
-    
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
     
     <category term="美学" scheme="https://justwowyeah.com/tags/%E7%BE%8E%E5%AD%A6/"/>
     
@@ -118,9 +116,9 @@
     
     
     
-    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
-    
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
     
     <category term="真善美" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E5%96%84%E7%BE%8E/"/>
     
@@ -145,11 +143,11 @@
     
     
     
-    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
-    
     <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
     
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
     
   </entry>
   
@@ -386,9 +384,9 @@
     
     
     
-    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
-    
     <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
+    
+    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
     
   </entry>
   
@@ -490,9 +488,9 @@
     
     <category term="记录" scheme="https://justwowyeah.com/tags/%E8%AE%B0%E5%BD%95/"/>
     
-    <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
-    
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+    <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
     
   </entry>
   
@@ -541,9 +539,9 @@
     
     
     
-    <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
-    
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+    <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
     
     <category term="意识" scheme="https://justwowyeah.com/tags/%E6%84%8F%E8%AF%86/"/>
     
