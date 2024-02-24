@@ -29,9 +29,9 @@
     
     
     
-    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
-    
     <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
     <category term="真善美" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E5%96%84%E7%BE%8E/"/>
     
@@ -52,9 +52,9 @@
     
     
     
-    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
-    
     <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
     <category term="意识" scheme="https://justwowyeah.com/tags/%E6%84%8F%E8%AF%86/"/>
     
@@ -77,9 +77,9 @@
     
     
     
-    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
-    
     <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
     <category term="意识" scheme="https://justwowyeah.com/tags/%E6%84%8F%E8%AF%86/"/>
     
@@ -148,9 +148,9 @@
     
     
     
-    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
-    
     <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
     <category term="美学" scheme="https://justwowyeah.com/tags/%E7%BE%8E%E5%AD%A6/"/>
     
@@ -171,9 +171,9 @@
     
     
     
-    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
-    
     <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
   </entry>
   
@@ -194,9 +194,9 @@
     
     
     
-    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
-    
     <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
     <category term="真善美" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E5%96%84%E7%BE%8E/"/>
     
@@ -218,11 +218,11 @@
     
     
     
-    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
-    
     <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
     
     <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
   </entry>
   
@@ -266,24 +266,6 @@
     <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
     
     <category term="人文" scheme="https://justwowyeah.com/tags/%E4%BA%BA%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>近期总结和感悟</title>
-    <link href="https://justwowyeah.com/%E8%BF%91%E6%9C%9F%E6%80%BB%E7%BB%93%E5%92%8C%E6%84%9F%E6%82%9F/"/>
-    <id>https://justwowyeah.com/%E8%BF%91%E6%9C%9F%E6%80%BB%E7%BB%93%E5%92%8C%E6%84%9F%E6%82%9F/</id>
-    <published>2023-10-11T14:25:19.000Z</published>
-    <updated>2023-11-28T03:08:22.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;国庆假里基本没干什么事，头两天去颐和园逛，骑自行车走马观花了几个大学校门。中间是悠闲地过日子，顺带在菜鸟教程学了&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93d3cucnVub29iLmNvbS9yZWdleHAvcmVnZXhwLXR1dG9yaWFsLmh0bWw=&quot;&gt;正则表达式&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;和&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93d3cucnVub29iLmNvbS9naXQvZ2l0LXR1dG9yaWFsLmh0bWw=&quot;&gt;git入门&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;后来注意到android开发还没开始呢，赶紧又是全网搜索又是横纵比较，选了一门还不错的新网课跟入了。java都还没学呢，kotlin就更不敢说了，更别谈android studio巨大的版本差异了，其实这也是由于前端知识迭代迅速（顺带分享稀土掘金里一篇&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9qdWVqaW4uY24vcG9zdC83MjgzNzY2NDc3ODAyODY0Njc1&quot;&gt;前端转产品的自述&lt;i class=&quot;fa fa-external-link-alt&quot;&gt;&lt;/i&gt;&lt;/span&gt;）&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="记录" scheme="https://justwowyeah.com/tags/%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
@@ -338,55 +320,9 @@
     
     
     
-    <category term="学习" scheme="https://justwowyeah.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
     <category term="总结" scheme="https://justwowyeah.com/tags/%E6%80%BB%E7%BB%93/"/>
     
-  </entry>
-  
-  <entry>
-    <title>人与人的差距和自我疗愈</title>
-    <link href="https://justwowyeah.com/%E4%BA%BA%E4%B8%8E%E4%BA%BA%E7%9A%84%E5%B7%AE%E8%B7%9D%E5%92%8C%E8%87%AA%E6%88%91%E7%96%97%E6%84%88/"/>
-    <id>https://justwowyeah.com/%E4%BA%BA%E4%B8%8E%E4%BA%BA%E7%9A%84%E5%B7%AE%E8%B7%9D%E5%92%8C%E8%87%AA%E6%88%91%E7%96%97%E6%84%88/</id>
-    <published>2023-09-23T08:20:45.000Z</published>
-    <updated>2023-11-28T03:08:17.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;已是开学第三周的尾巴。漫长的时间，仍感怀时间飞逝。感知是相对的，运动速度和时间快慢密切相关。我不喜欢物理，只对故事和神秘主义感兴趣。相同的时间尺度下，进入心灵的事物越纷繁时间消逝地越快。睡梦同样，越美丽悠长越是惊叹几分钟光阴的伟大创造。相反，一整晚空洞的漫游怎么也弄不清是如何失去意识的。&lt;/p&gt;
-&lt;p&gt;我经验的就是这故事，现实的梦。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
-    
-    <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
-    
     <category term="学习" scheme="https://justwowyeah.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>美学原理的第一问</title>
-    <link href="https://justwowyeah.com/%E7%BE%8E%E5%AD%A6%E5%8E%9F%E7%90%86%E7%9A%84%E7%AC%AC%E4%B8%80%E9%97%AE/"/>
-    <id>https://justwowyeah.com/%E7%BE%8E%E5%AD%A6%E5%8E%9F%E7%90%86%E7%9A%84%E7%AC%AC%E4%B8%80%E9%97%AE/</id>
-    <published>2023-09-10T07:50:06.000Z</published>
-    <updated>2023-11-28T03:06:09.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;桌上的台灯亮着醒目的白光，我浸没在灯光里，思绪反复凝固活络。在家里玩闹了月余，消耗掉疲惫的两天把自己从中抽离，安顿在另一个地方的躯体里。回学校一个星期，我并没有一点分裂的感觉，似乎学习和放假完全是一回事。不论实质还是表象，大学已是和中学截然不同的另一模样，而小学却和中学逐渐靠近。&lt;/p&gt;
-&lt;p&gt;概率论、软件工程、web前端、编程实践……这些都是顺理成章的事情，远没有能让我写点什么的。因此，我要讲的是另一样东西：美学原理。令我意外的是，授课老师在b站有几十万粉丝，视频播放量也达到千万。尽管我的庆幸并非出自这一点。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
-    
-    <category term="真善美" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E5%96%84%E7%BE%8E/"/>
-    
-    <category term="记录" scheme="https://justwowyeah.com/tags/%E8%AE%B0%E5%BD%95/"/>
-    
-    <category term="美学" scheme="https://justwowyeah.com/tags/%E7%BE%8E%E5%AD%A6/"/>
     
   </entry>
   
@@ -436,25 +372,6 @@
   </entry>
   
   <entry>
-    <title>重新开始——我怎么对待博客？</title>
-    <link href="https://justwowyeah.com/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E2%80%94%E2%80%94%E6%88%91%E6%80%8E%E4%B9%88%E5%AF%B9%E5%BE%85%E5%8D%9A%E5%AE%A2%EF%BC%9F/"/>
-    <id>https://justwowyeah.com/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E2%80%94%E2%80%94%E6%88%91%E6%80%8E%E4%B9%88%E5%AF%B9%E5%BE%85%E5%8D%9A%E5%AE%A2%EF%BC%9F/</id>
-    <published>2023-08-27T06:17:31.000Z</published>
-    <updated>2023-11-28T03:06:15.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;继六月建立博客、七月写下最后一个字以来，我在直到八月末尾的时光里虚掷了许多时间与精力，完全彻底地抛弃了这个来之不易的孩子。&lt;/p&gt;
-&lt;p&gt;现在我决定重新开始，但是需要转换思路。&lt;/p&gt;
-&lt;p&gt;之前我雄心勃勃地试图把这个地方建立成我的思想王国、技术殿堂、人生归宿，但是我高估了自己的专注力，同时也低估了写长文的难度。许多洋洋洒洒的计划只是进行了开头就丧失了兴趣，转而投入到下一个选题之中，最后什么也没剩下。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="记录" scheme="https://justwowyeah.com/tags/%E8%AE%B0%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>神，永远在路上</title>
     <link href="https://justwowyeah.com/%E7%A5%9E%EF%BC%8C%E6%B0%B8%E8%BF%9C%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
     <id>https://justwowyeah.com/%E7%A5%9E%EF%BC%8C%E6%B0%B8%E8%BF%9C%E5%9C%A8%E8%B7%AF%E4%B8%8A/</id>
@@ -469,6 +386,102 @@
     
     
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>徒手画圆</title>
+    <link href="https://justwowyeah.com/%E5%BE%92%E6%89%8B%E7%94%BB%E5%9C%86/"/>
+    <id>https://justwowyeah.com/%E5%BE%92%E6%89%8B%E7%94%BB%E5%9C%86/</id>
+    <published>2023-04-29T11:58:00.000Z</published>
+    <updated>2023-11-28T04:26:25.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;什么样的生活是适合小孩子的，什么样的生活是适合每个人的？最好的教育是独立培养，因材施教，是无限趋近的完美，放在当下，又须得经过层层妥协。&lt;/p&gt;
+&lt;p&gt;把人变成哪一模样不该被讨论，而要把“判断”这一工具交给他，让他自己成为，这工具他选不了，我们也是，他能看到最宽敞的路，但看</summary>
+        
+      
+    
+    
+    
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+    <category term="意义" scheme="https://justwowyeah.com/tags/%E6%84%8F%E4%B9%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>荒谬与痛苦</title>
+    <link href="https://justwowyeah.com/%E8%8D%92%E8%B0%AC%E4%B8%8E%E7%97%9B%E8%8B%A6/"/>
+    <id>https://justwowyeah.com/%E8%8D%92%E8%B0%AC%E4%B8%8E%E7%97%9B%E8%8B%A6/</id>
+    <published>2023-03-17T01:53:00.000Z</published>
+    <updated>2023-11-28T04:42:10.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这个世界是多么荒谬的世界！你来看看吧！真正的睁开眼睛仔细看看！&lt;/p&gt;
+&lt;p&gt;因为可以吃的实在太多，所以人们不得不被饿死！&lt;/p&gt;
+&lt;p&gt;因为生的实在太多，所以人们不得不被处死！&lt;/p&gt;
+&lt;p&gt;因为被剥削的实在太严重，所以人们不得不被更严重的、更赤裸裸的剥削！&lt;/p&gt;
+&lt;p</summary>
+        
+      
+    
+    
+    
+    
+    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>市民社会和现代国家</title>
+    <link href="https://justwowyeah.com/%E5%B8%82%E6%B0%91%E7%A4%BE%E4%BC%9A%E5%92%8C%E7%8E%B0%E4%BB%A3%E5%9B%BD%E5%AE%B6/"/>
+    <id>https://justwowyeah.com/%E5%B8%82%E6%B0%91%E7%A4%BE%E4%BC%9A%E5%92%8C%E7%8E%B0%E4%BB%A3%E5%9B%BD%E5%AE%B6/</id>
+    <published>2023-03-15T13:09:00.000Z</published>
+    <updated>2023-11-28T04:53:18.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;现代国家以市民社会中的自私自利的个体的权利为自己的追求，而市民社会却是建立在抽象国家对至高无上的人权的追求上的。&lt;/p&gt;
+&lt;p&gt;法国大革命后，市民社会与现代国家已然分离，何以能够再次联系起来？市民在社会和国家当中过着双重的生活，何以他能够将抽象的、距他更为遥远的国家作为实在的对象，而把他真正栖身其中的市民社会当做暂时的居所？何以他能够承认国家对于社会生活的引领和限定的正当性，从而愿意发展对国家高度的政治认同呢？这绝不仅仅是简单的爱国心等神秘主义的论证能够解决的，而必须经过对已经发展到最完善版本的该种社会形态的剖析才能得到。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
+    
+    <category term="总结" scheme="https://justwowyeah.com/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="学习" scheme="https://justwowyeah.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>知与行</title>
+    <link href="https://justwowyeah.com/%E7%9F%A5%E4%B8%8E%E8%A1%8C/"/>
+    <id>https://justwowyeah.com/%E7%9F%A5%E4%B8%8E%E8%A1%8C/</id>
+    <published>2023-03-12T08:14:00.000Z</published>
+    <updated>2023-11-28T04:53:45.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;什么是哲学，爱智慧，追求智慧。&lt;/p&gt;
+&lt;p&gt;我现在不是一个智慧的人，我依然活在自己画出来的圆圈之中，曾经多次误以为已经到达世界最远的地方，现在才发觉我这才刚刚启程。&lt;/p&gt;
+&lt;p&gt;对政治，对文化，对经济，对人生，对世界的思考，甚至于对自己最热爱的计算机专业的了解，都不值一提。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
     
   </entry>
   
