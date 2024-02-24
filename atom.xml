@@ -6,7 +6,7 @@
   <link href="https://justwowyeah.com/atom.xml" rel="self"/>
   
   <link href="https://justwowyeah.com/"/>
-  <updated>2023-12-11T15:23:31.000Z</updated>
+  <updated>2024-02-24T00:27:39.000Z</updated>
   <id>https://justwowyeah.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>不确定的道路</title>
+    <link href="https://justwowyeah.com/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E7%9A%84%E9%81%93%E8%B7%AF/"/>
+    <id>https://justwowyeah.com/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E7%9A%84%E9%81%93%E8%B7%AF/</id>
+    <published>2024-02-23T16:00:00.000Z</published>
+    <updated>2024-02-24T00:27:39.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;小孩子不是没有认识死亡的能力，Ta清楚地知晓：死亡就是永远离开自己，永远离开世上的所有。甚至可以说孩子对死亡的认识更为本质。随着年龄渐长，我们受到很多挫折，也收获很多见识，我们知道怎么做对我们好，怎么做不好，这是人对环境的反映，最终我们建立起反思的能力。面对死亡，我们会想：可不可以不死？不死会怎样？死亡会带来什么？不死是可以做到的吗？经由反思，每个人都将得到一套独特的观点集，观念散乱非常，甚至内含巨大的矛盾，将矛盾化解，将零散的观念组织起来，就成了哲学。哲学不是从0到1，而是把1缝补起来。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+    <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
+    
+    <category term="真善美" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E5%96%84%E7%BE%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>路径依赖</title>
@@ -56,9 +77,9 @@
     
     
     
-    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
-    
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
     
     <category term="意识" scheme="https://justwowyeah.com/tags/%E6%84%8F%E8%AF%86/"/>
     
@@ -150,9 +171,9 @@
     
     
     
-    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
-    
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
+    
+    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
     
   </entry>
   
@@ -197,11 +218,11 @@
     
     
     
-    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
-    
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
     <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
+    
+    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
     
   </entry>
   
@@ -337,9 +358,9 @@
     
     
     
-    <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
-    
     <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
+    
+    <category term="自我" scheme="https://justwowyeah.com/tags/%E8%87%AA%E6%88%91/"/>
     
     <category term="学习" scheme="https://justwowyeah.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
@@ -359,13 +380,13 @@
     
     
     
-    <category term="记录" scheme="https://justwowyeah.com/tags/%E8%AE%B0%E5%BD%95/"/>
-    
     <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
     
-    <category term="美学" scheme="https://justwowyeah.com/tags/%E7%BE%8E%E5%AD%A6/"/>
-    
     <category term="真善美" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E5%96%84%E7%BE%8E/"/>
+    
+    <category term="记录" scheme="https://justwowyeah.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="美学" scheme="https://justwowyeah.com/tags/%E7%BE%8E%E5%AD%A6/"/>
     
   </entry>
   
@@ -383,9 +404,9 @@
     
     
     
-    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
-    
     <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
+    
+    <category term="社会关系" scheme="https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB/"/>
     
   </entry>
   
@@ -406,9 +427,9 @@
     
     
     
-    <category term="意义" scheme="https://justwowyeah.com/tags/%E6%84%8F%E4%B9%89/"/>
-    
     <category term="真理" scheme="https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/"/>
+    
+    <category term="意义" scheme="https://justwowyeah.com/tags/%E6%84%8F%E4%B9%89/"/>
     
     <category term="理想主义" scheme="https://justwowyeah.com/tags/%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/"/>
     
@@ -446,32 +467,6 @@
     
     
     
-    
-    <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>徒手画圆</title>
-    <link href="https://justwowyeah.com/%E5%BE%92%E6%89%8B%E7%94%BB%E5%9C%86/"/>
-    <id>https://justwowyeah.com/%E5%BE%92%E6%89%8B%E7%94%BB%E5%9C%86/</id>
-    <published>2023-04-29T11:58:00.000Z</published>
-    <updated>2023-11-28T04:26:25.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;什么样的生活是适合小孩子的，什么样的生活是适合每个人的？最好的教育是独立培养，因材施教，是无限趋近的完美，放在当下，又须得经过层层妥协。&lt;/p&gt;
-&lt;p&gt;把人变成哪一模样不该被讨论，而要把“判断”这一工具交给他，让他自己成为，这工具他选不了，我们也是，他能看到最宽敞的路，但看</summary>
-        
-      
-    
-    
-    
-    
-    <category term="意义" scheme="https://justwowyeah.com/tags/%E6%84%8F%E4%B9%89/"/>
     
     <category term="人" scheme="https://justwowyeah.com/tags/%E4%BA%BA/"/>
     
