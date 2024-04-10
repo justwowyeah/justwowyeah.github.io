@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://justwowyeah.com/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E9%81%93%E5%BE%B7/</loc>
+    
+    <lastmod>2024-04-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://justwowyeah.com/%E5%AF%B9%E5%BD%B1%E5%8F%AA%E4%B8%80%E4%BA%BA/</loc>
     
     <lastmod>2024-03-31</lastmod>
@@ -551,6 +560,13 @@
   
   <url>
     <loc>https://justwowyeah.com/tags/%E7%A4%BE%E4%BC%9A%E8%BE%BE%E5%B0%94%E6%96%87%E4%B8%BB%E4%B9%89/</loc>
+    <lastmod>2024-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://justwowyeah.com/tags/%E9%81%93%E5%BE%B7/</loc>
     <lastmod>2024-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
