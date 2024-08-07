@@ -426,6 +426,13 @@
   </url>
   
   <url>
+    <loc>https://justwowyeah.com/tags/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2024-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://justwowyeah.com/tags/%E7%9C%9F%E7%90%86/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -440,21 +447,7 @@
   </url>
   
   <url>
-    <loc>https://justwowyeah.com/tags/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://justwowyeah.com/tags/%E4%B8%8D%E5%8F%AF%E7%9F%A5%E8%AE%BA/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://justwowyeah.com/tags/%E5%9F%8E%E5%B8%82%E5%8C%96/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -482,13 +475,6 @@
   </url>
   
   <url>
-    <loc>https://justwowyeah.com/tags/%E5%AE%BF%E5%91%BD%E8%AE%BA/</loc>
-    <lastmod>2024-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://justwowyeah.com/tags/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -497,6 +483,20 @@
   
   <url>
     <loc>https://justwowyeah.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://justwowyeah.com/tags/%E5%9F%8E%E5%B8%82%E5%8C%96/</loc>
+    <lastmod>2024-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://justwowyeah.com/tags/%E5%AE%BF%E5%91%BD%E8%AE%BA/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
