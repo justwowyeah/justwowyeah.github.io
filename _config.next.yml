@@ -100,7 +100,7 @@ menu:
   about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
   archives: /archives/ || fa fa-archive
-  RSS: https://justwowyeah.com/atom.xml || fa fa-rss
+  RSS: https://www.justwowyeah.com/atom.xml || fa fa-rss
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -141,7 +141,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /images/avatar.jpg #/images/avatar.gif
+  url: https://pic.imgdb.cn/item/66b3b73ad9c307b7e9e5e929.jpg #/images/avatar.gif
   # If true, the avatar will be displayed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.
