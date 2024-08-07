@@ -775,11 +775,6 @@
       </tags>
   </entry>
   <entry>
-    <title>[object Object]</title>
-    <url>/tags/tags.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>关于</title>
     <url>/about/index.html</url>
     <content><![CDATA[<blockquote><p>Q：这里是哪？<br>A：一个空谈无实的博客，言语经过审查，思想进步缓慢。</p>
@@ -793,5 +788,10 @@
 
 <blockquote><p>Q：你是谁？<br>A：一个普通人，向优秀看齐！</p>
 </blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>tags</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
